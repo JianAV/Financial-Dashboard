@@ -9,6 +9,8 @@ const users = [
   },
 ];
 
+// Edited customer[2] id to differ from customer[1] id
+
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
@@ -23,7 +25,7 @@ const customers = [
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
-    id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
+    id: '489216f1-742f-4377-85e9-fec4b6a6442a',
     name: 'Lee Robinson',
     email: 'lee@robinson.com',
     image_url: '/customers/lee-robinson.png',
